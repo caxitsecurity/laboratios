@@ -1,1 +1,4 @@
-Contenido del template aquí...
+# Machine Template
+
+## Información General
+... (full template content)
