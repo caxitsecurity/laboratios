@@ -1,4 +1,11 @@
-# Machine Template
+# [Nombre Máquina] - [Plataforma]
+
+**Dificultad**: Medium | **OS**: Linux | **Tiempo**: 4h
 
 ## Información General
-... (full template content)
+- IP: 
+- Fecha: 
+
+## Reconocimiento
+```bash
+nmap -sC -sV IP
